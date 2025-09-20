@@ -269,13 +269,6 @@ python 启动RAG.py
 
 **注意**: 这是一个演示项目，用于展示RAG技术和长效思考机制在银行政策问答中的应用。在生产环境中使用前，请确保进行充分的测试和验证。
 
-## 📊 项目统计
-
-![GitHub stars](https://img.shields.io/github/stars/your-username/bank-policy-rag-system?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/bank-policy-rag-system?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/bank-policy-rag-system)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/bank-policy-rag-system)
-
 
 
 
