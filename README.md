@@ -81,7 +81,8 @@
 
 ✅ 高度可扩展，支持自定义Agent和工具集成
 
- 🚀 示例截图
+ 🚀 示例截图:
+
 <img width="1107" height="475" alt="image" src="https://github.com/user-attachments/assets/70a4449b-d0b6-4961-a8cb-f8e5ae95d661" />
 <img width="1106" height="699" alt="image" src="https://github.com/user-attachments/assets/6d8316da-89cf-4adc-8cd5-2b6d68e2c6ae" />
 <img width="1107" height="800" alt="image" src="https://github.com/user-attachments/assets/104200ac-58ed-4cdf-bdb5-1601ff8ba693" />
@@ -267,5 +268,6 @@ python 启动RAG.py
 ![GitHub forks](https://img.shields.io/github/forks/your-username/bank-policy-rag-system?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/your-username/bank-policy-rag-system)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/bank-policy-rag-system)
+
 
 
