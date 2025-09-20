@@ -151,12 +151,19 @@ python 启动RAG.py
 
 ### 核心技术
 编程语言	  Python 3.7+
+
 Web框架	 	Streamlit
+
 AI/ML技术	RAG, ReAct, GraphRAG, BM25, TF-IDF等
+
 数据处理	 	NumPy, Pandas, scikit-learn, jieba
+
 文档处理	 	PyPDF2, python-docx
+
 部署技术	 	Docker, GitHub Actions, Nginx等
+
 开发工具	 	Git, pytest, flake8, black等
+
 架构模式	 	微服务、分层、RAG管道、Agent
 
 ### 依赖包
@@ -268,6 +275,7 @@ python 启动RAG.py
 ![GitHub forks](https://img.shields.io/github/forks/your-username/bank-policy-rag-system?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/your-username/bank-policy-rag-system)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/bank-policy-rag-system)
+
 
 
 
