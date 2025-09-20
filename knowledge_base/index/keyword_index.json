@@ -1,0 +1,217 @@
+{
+  "keywords": {
+    "普惠金融": {
+      "frequency": 156,
+      "documents": [
+        {
+          "id": "inclusive_finance_2023_2024",
+          "title": "中国普惠金融指标分析报告（2023-2024年）",
+          "occurrences": 89,
+          "contexts": [
+            "普惠金融政策支持力度",
+            "普惠金融基础设施",
+            "普惠金融发展环境",
+            "普惠金融经营机制",
+            "普惠金融服务能力",
+            "普惠金融服务群体",
+            "普惠金融高质量发展"
+          ]
+        }
+      ],
+      "related_keywords": ["小微企业", "乡村振兴", "民生金融", "数字普惠"]
+    },
+    "小微企业": {
+      "frequency": 89,
+      "documents": [
+        {
+          "id": "inclusive_finance_2023_2024",
+          "title": "中国普惠金融指标分析报告（2023-2024年）",
+          "occurrences": 67,
+          "contexts": [
+            "普惠小微贷款余额29.4万亿元",
+            "普惠小微授信户数6166万户",
+            "普惠小微企业贷款加权平均利率4.46%",
+            "民营小微企业政策支持"
+          ]
+        },
+        {
+          "id": "china_economic_outlook_2025",
+          "title": "中国经济金融展望报告（2025年）",
+          "occurrences": 22,
+          "contexts": [
+            "小微企业金融服务",
+            "小微企业融资"
+          ]
+        }
+      ],
+      "related_keywords": ["普惠金融", "融资", "贷款", "信用贷款"]
+    },
+    "GDP增长": {
+      "frequency": 45,
+      "documents": [
+        {
+          "id": "china_economic_outlook_2025",
+          "title": "中国经济金融展望报告（2025年）",
+          "occurrences": 28,
+          "contexts": [
+            "2025年一季度GDP同比增长5.2%左右",
+            "2025年二季度GDP同比增长5.3%左右",
+            "上半年GDP增速将保持在5%以上"
+          ]
+        },
+        {
+          "id": "global_economic_outlook_2025",
+          "title": "全球经济金融展望报告(2025年)",
+          "occurrences": 17,
+          "contexts": [
+            "全球经济增长",
+            "主要经济体增长"
+          ]
+        }
+      ],
+      "related_keywords": ["经济增速", "预测", "展望", "宏观政策"]
+    },
+    "货币政策": {
+      "frequency": 67,
+      "documents": [
+        {
+          "id": "inclusive_finance_2023_2024",
+          "title": "中国普惠金融指标分析报告（2023-2024年）",
+          "occurrences": 34,
+          "contexts": [
+            "货币政策工具总量和结构双重功能",
+            "2023年两次降准释放长期资金超1万亿元",
+            "超额续作中期借贷便利（MLF）2.5万亿元",
+            "两次下调政策利率"
+          ]
+        },
+        {
+          "id": "china_economic_outlook_2025",
+          "title": "中国经济金融展望报告（2025年）",
+          "occurrences": 33,
+          "contexts": [
+            "宏观政策更加积极有为",
+            "货币政策调整"
+          ]
+        }
+      ],
+      "related_keywords": ["降准", "利率", "MLF", "公开市场操作"]
+    },
+    "金融稳定": {
+      "frequency": 78,
+      "documents": [
+        {
+          "id": "financial_stability_2024",
+          "title": "中国金融稳定报告2024",
+          "occurrences": 78,
+          "contexts": [
+            "金融体系稳定性",
+            "金融风险分析",
+            "维护金融稳定",
+            "金融稳定政策建议"
+          ]
+        }
+      ],
+      "related_keywords": ["风险监管", "银行体系", "保险证券", "影子银行"]
+    },
+    "乡村振兴": {
+      "frequency": 34,
+      "documents": [
+        {
+          "id": "inclusive_finance_2023_2024",
+          "title": "中国普惠金融指标分析报告（2023-2024年）",
+          "occurrences": 34,
+          "contexts": [
+            "全面加强乡村振兴金融支持力度",
+            "涉农融资规模较快增长",
+            "涉农贷款余额56.6万亿元",
+            "农业强国建设"
+          ]
+        }
+      ],
+      "related_keywords": ["涉农贷款", "农业强国", "粮食安全", "脱贫攻坚"]
+    },
+    "风险监管": {
+      "frequency": 56,
+      "documents": [
+        {
+          "id": "financial_stability_2024",
+          "title": "中国金融稳定报告2024",
+          "occurrences": 56,
+          "contexts": [
+            "重点领域风险分析",
+            "银行风险",
+            "保险风险",
+            "证券风险",
+            "影子银行风险"
+          ]
+        }
+      ],
+      "related_keywords": ["金融稳定", "监管政策", "风险管理", "合规"]
+    },
+    "外部环境": {
+      "frequency": 42,
+      "documents": [
+        {
+          "id": "china_economic_outlook_2025",
+          "title": "中国经济金融展望报告（2025年）",
+          "occurrences": 25,
+          "contexts": [
+            "外部环境复杂性、严峻性、不确定性全面上升",
+            "特朗普政府相关政策影响",
+            "外部不利影响或进一步加深"
+          ]
+        },
+        {
+          "id": "global_economic_outlook_2025",
+          "title": "全球经济金融展望报告(2025年)",
+          "occurrences": 17,
+          "contexts": [
+            "全球经济环境",
+            "地缘政治影响"
+          ]
+        }
+      ],
+      "related_keywords": ["国际贸易", "地缘政治", "特朗普政策", "关税"]
+    },
+    "数字普惠": {
+      "frequency": 23,
+      "documents": [
+        {
+          "id": "inclusive_finance_2023_2024",
+          "title": "中国普惠金融指标分析报告（2023-2024年）",
+          "occurrences": 23,
+          "contexts": [
+            "数字普惠金融服务水平稳步提升",
+            "数字支付向县域乡村下沉",
+            "数字人民币研发应用"
+          ]
+        }
+      ],
+      "related_keywords": ["普惠金融", "数字支付", "数字人民币", "金融科技"]
+    },
+    "消费投资": {
+      "frequency": 38,
+      "documents": [
+        {
+          "id": "china_economic_outlook_2025",
+          "title": "中国经济金融展望报告（2025年）",
+          "occurrences": 38,
+          "contexts": [
+            "消费回暖",
+            "投资增长",
+            "内需回升",
+            "需求端内升外降"
+          ]
+        }
+      ],
+      "related_keywords": ["GDP增长", "宏观政策", "市场预期", "内需"]
+    }
+  },
+  "metadata": {
+    "total_keywords": 10,
+    "total_occurrences": 628,
+    "creation_date": "2025-08-06",
+    "version": "1.0"
+  }
+} 

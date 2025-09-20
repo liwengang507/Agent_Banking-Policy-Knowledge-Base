@@ -1,0 +1,119 @@
+{
+  "documents": [
+    {
+      "id": "inclusive_finance_2023_2024",
+      "title": "中国普惠金融指标分析报告（2023-2024年）",
+      "author": "中国人民银行普惠金融工作小组",
+      "publish_date": "2024",
+      "file_path": "data/extracted_texts/中国普惠金融指标分析报告（2023-2024 年）_extracted.txt",
+      "file_size": "59KB",
+      "char_count": 21774,
+      "line_count": 894,
+      "summary": "本报告全面分析了2023年中国普惠金融发展情况，包括政策支持、融资规模、服务质量等方面的数据和趋势。",
+      "chapters": [
+        {
+          "title": "2023年普惠金融发展总体情况",
+          "start_page": 2,
+          "end_page": 5,
+          "key_topics": ["货币政策工具", "普惠小微融资", "乡村振兴金融", "民生金融服务", "支付服务", "征信市场"]
+        },
+        {
+          "title": "普惠金融指标体系",
+          "start_page": 6,
+          "end_page": 10,
+          "key_topics": ["指标体系", "数据统计", "评估方法"]
+        }
+      ],
+      "keywords": ["普惠金融", "小微企业", "乡村振兴", "民生金融", "数字普惠", "征信体系"],
+      "categories": ["普惠金融", "政策法规"]
+    },
+    {
+      "id": "china_economic_outlook_2025",
+      "title": "中国经济金融展望报告（2025年）",
+      "author": "中国银行研究院",
+      "publish_date": "2025",
+      "file_path": "data/extracted_texts/中国经济金融展望报告（2025年）_extracted.txt",
+      "file_size": "118KB",
+      "char_count": 44507,
+      "line_count": 1499,
+      "summary": "本报告分析了2025年中国经济金融形势，包括一季度回顾、二季度展望以及相关政策建议。",
+      "chapters": [
+        {
+          "title": "2025年一季度经济形势回顾与二季度展望",
+          "start_page": 3,
+          "end_page": 8,
+          "key_topics": ["GDP增长", "宏观政策", "内需回升", "外部环境", "市场预期"]
+        },
+        {
+          "title": "需求端分析",
+          "start_page": 9,
+          "end_page": 15,
+          "key_topics": ["消费回暖", "投资增长", "出口形势", "内升外降"]
+        }
+      ],
+      "keywords": ["经济展望", "GDP增长", "宏观政策", "消费投资", "外部环境", "市场预期"],
+      "categories": ["经济展望", "政策法规"]
+    },
+    {
+      "id": "financial_stability_2024",
+      "title": "中国金融稳定报告2024",
+      "author": "中国人民银行",
+      "publish_date": "2024",
+      "file_path": "data/extracted_texts/中国金融稳定报告2024_extracted.txt",
+      "file_size": "250KB",
+      "char_count": 107439,
+      "line_count": 4828,
+      "summary": "本报告全面评估了中国金融体系稳定性，分析了各类金融风险，提出了维护金融稳定的政策建议。",
+      "chapters": [
+        {
+          "title": "金融体系总体运行情况",
+          "start_page": 1,
+          "end_page": 10,
+          "key_topics": ["金融体系", "风险状况", "监管政策", "市场运行"]
+        },
+        {
+          "title": "重点领域风险分析",
+          "start_page": 11,
+          "end_page": 20,
+          "key_topics": ["银行风险", "保险风险", "证券风险", "影子银行"]
+        }
+      ],
+      "keywords": ["金融稳定", "风险监管", "银行体系", "保险证券", "影子银行", "监管政策"],
+      "categories": ["金融稳定", "政策法规"]
+    },
+    {
+      "id": "global_economic_outlook_2025",
+      "title": "全球经济金融展望报告(2025年)",
+      "author": "中国银行研究院",
+      "publish_date": "2025",
+      "file_path": "data/extracted_texts/全球经济金融展望报告(2025年)_extracted.txt",
+      "file_size": "112KB",
+      "char_count": 44533,
+      "line_count": 1474,
+      "summary": "本报告分析了2025年全球经济金融形势，包括主要经济体表现、全球贸易投资、金融市场波动等方面。",
+      "chapters": [
+        {
+          "title": "全球经济形势分析",
+          "start_page": 1,
+          "end_page": 8,
+          "key_topics": ["全球经济增长", "主要经济体", "贸易投资", "地缘政治"]
+        },
+        {
+          "title": "全球金融市场",
+          "start_page": 9,
+          "end_page": 15,
+          "key_topics": ["金融市场", "汇率波动", "大宗商品", "风险因素"]
+        }
+      ],
+      "keywords": ["全球经济", "国际贸易", "金融市场", "地缘政治", "汇率波动", "风险因素"],
+      "categories": ["经济展望", "政策法规"]
+    }
+  ],
+  "metadata": {
+    "total_documents": 4,
+    "total_characters": 218253,
+    "total_lines": 8695,
+    "creation_date": "2025-08-06",
+    "version": "1.0"
+  }
+} 
