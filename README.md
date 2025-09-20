@@ -142,16 +142,35 @@ python 启动RAG.py
 ## 🛠️ 技术栈
 
 ### 核心技术
-- **Python 3.7+**: 主要开发语言
-- **Streamlit**: Web界面框架
-- **BM25**: 文本检索算法
-- **TF-IDF**: 词频-逆文档频率算法
-- **jieba**: 中文分词工具
+编程语言	  Python 3.7+
+Web框架	 	Streamlit
+AI/ML技术	RAG, ReAct, GraphRAG, BM25, TF-IDF等
+数据处理	 	NumPy, Pandas, scikit-learn, jieba
+文档处理	 	PyPDF2, python-docx
+部署技术	 	Docker, GitHub Actions, Nginx等
+开发工具	 	Git, pytest, flake8, black等
+架构模式	 	微服务、分层、RAG管道、Agent
 
 ### 依赖包
 ```
 streamlit>=1.28.0
 numpy>=1.21.0
+
+Web框架：
+streamlit>=1.28.0 - 主要的Web界面框架
+
+数据处理：
+numpy>=1.21.0 - 数值计算库
+pandas>=1.3.0 - 数据分析库
+
+机器学习和文本处理：
+
+scikit-learn>=1.0.0 - 机器学习库
+jieba>=0.42.1 - 中文分词工具
+
+文档处理：
+PyPDF2>=3.0.0 - PDF文档处理
+python-docx>=0.8.11 - Word文档处理
 pandas>=1.3.0
 scikit-learn>=1.0.0
 jieba>=0.42.1
@@ -241,3 +260,4 @@ python 启动RAG.py
 ![GitHub forks](https://img.shields.io/github/forks/your-username/bank-policy-rag-system?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/your-username/bank-policy-rag-system)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/bank-policy-rag-system)
+
