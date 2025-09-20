@@ -66,12 +66,19 @@
 🌟 技术优势：
 
 ✅ 基于LangGraph的多Agent协同架构，支持复杂任务分解和并行处理
+
 ✅ Agent-as-Tool设计模式，实现专业能力的模块化和可复用性
+
 ✅ GraphRAG知识图谱技术，提供深度语义理解和关联推理能力
+
 ✅ 多图谱架构，支持多文档独立管理和精细化检索
+
 ✅ 智能复杂度判断，自动选择最优Agent协作策略
+
 ✅ 透明协作过程，提供完整的Agent交互链和决策依据
+
 ✅ 企业级稳定性，多层次熔断保护和异常恢复机制
+
 ✅ 高度可扩展，支持自定义Agent和工具集成
 
  🚀 示例截图
@@ -260,4 +267,5 @@ python 启动RAG.py
 ![GitHub forks](https://img.shields.io/github/forks/your-username/bank-policy-rag-system?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/your-username/bank-policy-rag-system)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/bank-policy-rag-system)
+
 
